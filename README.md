@@ -1,7 +1,7 @@
 ![profile_access_count](https://komarev.com/ghpvc/?username=tomita-rysk)
 [![Github follower](https://img.shields.io/github/followers/tomita-rysk?label=Follow&style=social)](https://github.com/tomita-rysk)
 
-### Hi 👋, I'm sigma. I will be `SUPER HACKER`
+### Hi 👋
 I love OSS. I love [Vim](https://www.vim.org/), [ubuntu](https://ubuntu.com/), [solarized_dark](https://ethanschoonover.com/solarized/)
 
 * Security engineer
